@@ -1,0 +1,140 @@
+.body {
+    background-color: #e4e4ac;
+    opacity: 3;
+}
+
+/*==========login=========*/
+  .form_login{
+    font-family: verdana;
+    box-sizing : border-box;
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 14pt;
+    margin-bottom: 20px;
+    border-width: 0px;
+    margin-top: 4px;
+    color: #756565;
+    background-color: #eeeeef;
+  }
+  .kotak{
+    font-family: monospace;
+    width: 400px;
+    background: #d37d5b;
+    margin: 30px auto;
+    padding: 28px 28px;
+    border-radius: 10px;
+    border-width: 0px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .logout{
+    background-color: #cf261a;
+    color: white;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+/*=========LINK=============*/
+.link:link,
+.link:active,
+.link:visited{
+	font-size: 15pt;
+	background: #eb5460;
+	color: rgb(184, 204, 93);
+	text-decoration: none;
+	padding: 5px;
+    font-family: verdana;
+    font-weight: bold;
+    text-align:center;
+    position: relative;
+    top: 45px;
+    left:340px;	
+}
+
+.link:hover{
+	background: #2e0f13;
+}
+
+/*=============BUTTON===========*/
+.btn_cari{
+    opacity: 1;
+    font-family: arial;
+  background-color: #141405;
+  color: rgb(206, 99, 99);
+  text-decoration: none;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 8px;
+  padding-right: 8px;
+  cursor: pointer;
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 13px;
+  margin-top: 0px;
+  }
+
+  button{
+    opacity: 1;
+    font-family: arial;
+  background-color:#3993cf;
+  color: rgb(245, 240, 240);
+  text-decoration: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  cursor: pointer;
+  border-radius: 3px;
+  border-width: 0px;
+  font-size: 14px;
+  margin-top:3px;
+  margin-bottom:3px;
+}
+button1 {
+    opacity: 1;
+        font-family: arial;
+  background-color:#c41616;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  cursor: pointer;
+  border-radius: 3px;
+  border-width: 0px;
+  font-size: 14px;
+  margin-top:3px;
+  margin-bottom:3px;
+}
+button2{
+    opacity: 0.5;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+  background-color:#40aa40;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding:20px;
+}
+
+
+/*==========tabel===========*/
+.hoverTable th {
+    background-color: #444444;
+    color: white;
+    text-align: center;
+    padding: 7px;
+  }
+  .hoverTable td{ 
+      background-color: white;
+      color: #202020;
+      padding: 0px;
+      padding-left: 8px;
+      padding-right: 8px;
+  }
+  
+
+  
